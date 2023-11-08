@@ -15,6 +15,7 @@
 .brand-links:hover {
     background-color: black;
     color: white;
+    transition: 500ms;
 }
 
 
