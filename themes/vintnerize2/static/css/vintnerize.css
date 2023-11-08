@@ -25,3 +25,8 @@
     border-radius: 50%;
     border: solid 2px rgb(207, 207, 207);
 }
+
+#bvideo {
+    min-width: 100%;
+    min-height: 100%;
+}
