@@ -1,3 +1,14 @@
+
+h1 {
+    color: black;
+    font-weight: 700;
+}
+p {
+    color: black;
+}
+
+
+
 .brand-links {
     display: flex;
     align-items: center;
